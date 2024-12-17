@@ -20,7 +20,7 @@ public:
     ~MainWindow();
 
 private slots:
-    void saveFile(); // 儲存檔案的函數
+    void saveFile(); 
 
 private:
     Ui::MainWindow *ui;
